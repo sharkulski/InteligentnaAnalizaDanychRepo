@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InteligentnaAnalizaDanych", "InteligentnaAnalizaDanych.csproj", "{D2F5E577-881C-4C41-81B2-F3B4DC00A2F2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Porter2Stemmer", "porter2-stemmer\Porter2Stemmer\Porter2Stemmer.csproj", "{983D4578-27BD-4FFA-A464-E34A529DF065}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2F5E577-881C-4C41-81B2-F3B4DC00A2F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2F5E577-881C-4C41-81B2-F3B4DC00A2F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2F5E577-881C-4C41-81B2-F3B4DC00A2F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2F5E577-881C-4C41-81B2-F3B4DC00A2F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{983D4578-27BD-4FFA-A464-E34A529DF065}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{983D4578-27BD-4FFA-A464-E34A529DF065}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{983D4578-27BD-4FFA-A464-E34A529DF065}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{983D4578-27BD-4FFA-A464-E34A529DF065}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE0BA97E-E7D4-4899-839A-7210D7053E3E}
+	EndGlobalSection
+EndGlobal
